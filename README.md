@@ -16,4 +16,4 @@ This is the homepage for a fashion line.
 
 **Personal Summary**
 
-This project is the accumulation of my introduction to HTML and CSS. The main objective of this project is to use CSS and HTML to reproduce the website design to a very high degree of fidelity.
+This project is the accumulation of my introduction to HTML and CSS. The main objective of this project is to use CSS and HTML to reproduce the website design to a very high degree of fidelity. Using Flexbox to build the products grid responsively was challenging but well worth it for the smooth transition between the media breakpoints.
